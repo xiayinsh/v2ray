@@ -5,7 +5,7 @@ ENV UUID="38c9e20b-f90f-4bc6-a909-fa2b10917925"
 ENV CONFIG_JSON2="\",\n          \"alterId\": 64,\n          \"security\": \"none\"\n        }\n      ]\n    },\n    \"streamSettings\": {\n      \"network\": \"ws\"\n    }\n  },\n  \"inboundDetour\": [],\n  \"outbound\": {\n    \"protocol\": \"freedom\",\n   \"settings\": {}\n  }\n}"
 ENV CERT_PEM=none
 ENV KEY_PEM=none
-VER=3.46.4
+VER=v2ray/v2ray-core/releases/v3.46.4/v2ray-linux-64.zip
 
 RUN apk add --no-cache --virtual .build-deps ca-certificates curl \
  && mkdir -m 777 /v2raybin \ 

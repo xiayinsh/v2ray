@@ -1,5 +1,6 @@
 # v2ray 部署在 RedHat OpenShift 
 
+
 * openshift: 内存设置为256M，每 project 可配置 4 Pods。
 
 * Docker 镜像：wangyi2005/v2ray:latest，wangyi2005/v2ray:core版本号

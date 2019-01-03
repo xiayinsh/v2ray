@@ -12,6 +12,6 @@
 
 * ~~客户端： android Actinium、windows v2ray 可用同一个服务端。~~
 * 客户端: ios配置如下图
-![ios-v2ray-config](https://raw.githubusercontent.com/greatislee/myblogImages/master/OpenShiftLearn/v2ray-ios-config.png)
+![ios-v2ray-config](raw.githubusercontent.com/greatislee/myblogImages/master/OpenShiftLearn/v2ray-ios-config.png)
 
 * ~~具体配置: 见 issues。~~
